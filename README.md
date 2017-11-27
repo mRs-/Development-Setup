@@ -48,6 +48,10 @@ brew install mas
 ```bash
 brew cask install 1password
 ```
+## Little Snitch
+```bash
+brew cask install little-snitch
+```
 ## Visual Studio Code
 ```bash
 brew cask install visual-studio-code
@@ -60,9 +64,9 @@ brew cask install slack
 ```bash
 brew cask install postman
 ```
-## Sourcetree
+## Git Tower
 ```bash
-brew cask install sourcetree
+brew cask install tower
 ```
 ## Spotify
 ```bash
