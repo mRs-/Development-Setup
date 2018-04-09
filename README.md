@@ -12,7 +12,7 @@ brew tap caskroom/cask
 ```
 ## iTerm 
 ```bash
-brew tap caskroom/cask
+brew cask install iterm2
 ```
 ##  cloc
 ```bash
@@ -41,6 +41,14 @@ brew install swiftformat
 ## mas-cli
 ```bash
 brew install mas
+```
+## Carthage
+```bash
+brew install carthage
+```
+## CocoaPods
+```bash
+brew install cocoapods
 ```
 
 # Software
